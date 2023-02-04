@@ -85,6 +85,11 @@ body {
   overflow-x: hidden;
 }
 
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
